@@ -1,0 +1,13 @@
+# Ignore model files
+*.h5
+
+# Ignore IDE and system files
+.vscode/
+.idea/
+*.iml
+*.class
+.DS_Store
+Thumbs.db
+
+# Ignore Gradle caches or other large folders
+.gradle/
